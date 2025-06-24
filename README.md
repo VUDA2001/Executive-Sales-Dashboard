@@ -1,5 +1,7 @@
 # Executive-Sales-Dashboard
-This project presents a fully interactive Sales Performance Dashboard built in **Power BI Web**, using the *Sample Superstore* dataset. It simulates a real-world executive dashboard for retail sales analytics from 2014 to 2017.
+This project showcases an executive-level Sales Performance Dashboard built in Power BI Web using the popular Sample Superstore dataset. It highlights trends in sales, profit, and profit margins across categories, regions, time periods, and product lines.
+
+The dashboard enables stakeholders to monitor KPIs, explore seasonal patterns, and identify top-performing (and underperforming) products, with filters for region, segment, and year.
 ![dashboard gif](https://github.com/user-attachments/assets/2a334047-054d-48b5-b0bb-51cd8076dc13)
 
 ---
