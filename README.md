@@ -2,7 +2,7 @@
 
 ![dashboard gif](https://github.com/user-attachments/assets/2a334047-054d-48b5-b0bb-51cd8076dc13)
 
-This project showcases an executive-level Sales Performance Dashboard built in Power BI Web using the popular Sample Superstore dataset. It highlights trends in sales, profit, and profit margins across categories, regions, time periods, and product lines.
+This project showcases an executive-level Sales Performance Dashboard built in Power BI Web using the popular Sample Superstore dataset. It highlights trends in sales, profit, and profit margins across categories, regions, time periods, and product lines.(you can get the raw dataset from - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 The dashboard enables stakeholders to monitor KPIs, explore seasonal patterns, and identify top-performing (and underperforming) products, with filters for region, segment, and year.
 
